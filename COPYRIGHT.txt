@@ -1,0 +1,10 @@
+Wolf: Beacon Hills
+Created by Crespo Kavulavu
+
+Copyright (c) 2026 Crespo Kavulavu. All rights reserved.
+
+The game design, source code (index.html, sw.js), artwork and app icon in this
+package were created by Crespo Kavulavu. No part may be copied, sold or
+redistributed without written permission from the author.
+
+Third-party components are used under their own licences (see THIRD-PARTY-NOTICES.txt).

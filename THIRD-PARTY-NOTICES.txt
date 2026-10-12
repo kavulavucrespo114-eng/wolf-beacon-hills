@@ -1,0 +1,8 @@
+This game loads the following open-source libraries from the jsDelivr CDN at run time:
+
+- three.js (r160) - MIT License - Copyright (c) 2010-2023 three.js authors - https://threejs.org
+- cannon-es (0.20.0) - MIT License - Copyright (c) 2015 cannon.js authors, cannon-es contributors - https://github.com/pmndrs/cannon-es
+
+The MIT License permits use, modification and distribution provided the copyright
+notice and licence text are included. Full licence texts are published in the
+repositories linked above.
